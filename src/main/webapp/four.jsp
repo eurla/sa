@@ -19,8 +19,10 @@
     <textarea name="text" cols="50" rows="10"></textarea><br>
     <input type="submit" value="确定"  name="submit" />
     <input type="reset" value="重置"  name="reset" />
-</form><br><br><br>
-
-<a href="index.jsp">返回首页</a>
+</form><br>
+原理图如下：<br>
+<img src="面向对象.png"><br>
+<a href="index.jsp">返回首页</a><br><br>
+<a href="four/code.jsp">查看代码</a>
 </body>
 </html>
